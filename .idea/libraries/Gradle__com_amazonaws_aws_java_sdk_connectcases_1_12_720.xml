@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.amazonaws:aws-java-sdk-connectcases:1.12.720">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-connectcases/1.12.720/ca91b02a1d6a05f7b900ccb75d004a6b0748ac3e/aws-java-sdk-connectcases-1.12.720.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-connectcases/1.12.720/6aac7b36a0bc07a3c8d361b6075d1dac9242e0d1/aws-java-sdk-connectcases-1.12.720-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

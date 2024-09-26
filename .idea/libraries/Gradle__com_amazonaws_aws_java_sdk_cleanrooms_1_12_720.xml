@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.amazonaws:aws-java-sdk-cleanrooms:1.12.720">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-cleanrooms/1.12.720/6c184c99cdd6c25ab6c23c4c653583840bed05bf/aws-java-sdk-cleanrooms-1.12.720.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-cleanrooms/1.12.720/d7bf0e34bc630faee34d366b1cfeb3b873b131a2/aws-java-sdk-cleanrooms-1.12.720-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

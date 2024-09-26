@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.amazonaws:aws-java-sdk-timestreaminfluxdb:1.12.720">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-timestreaminfluxdb/1.12.720/8d20e9e5850789847fd154a75b9fdc3e39825f7/aws-java-sdk-timestreaminfluxdb-1.12.720.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-timestreaminfluxdb/1.12.720/72f0fe75afb151c54a108ecafd946de492c77c98/aws-java-sdk-timestreaminfluxdb-1.12.720-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

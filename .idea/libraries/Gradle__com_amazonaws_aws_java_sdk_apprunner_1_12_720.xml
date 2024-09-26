@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.amazonaws:aws-java-sdk-apprunner:1.12.720">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-apprunner/1.12.720/7a3c6133de723d8f9bac447e6031b7b0fd3d1832/aws-java-sdk-apprunner-1.12.720.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-apprunner/1.12.720/335cffa71c1e2c6dab3314f15a8396f06bee81b2/aws-java-sdk-apprunner-1.12.720-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

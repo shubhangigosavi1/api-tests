@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.amazonaws:aws-java-sdk-qbusiness:1.12.720">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-qbusiness/1.12.720/47283cfee3ac7c27576669a42cf80d020ab3587c/aws-java-sdk-qbusiness-1.12.720.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-qbusiness/1.12.720/b8978b42ed4c32f947786d0c4b98244d85bc7beb/aws-java-sdk-qbusiness-1.12.720-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

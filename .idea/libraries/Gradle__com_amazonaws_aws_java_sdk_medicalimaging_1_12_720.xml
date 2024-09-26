@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.amazonaws:aws-java-sdk-medicalimaging:1.12.720">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-medicalimaging/1.12.720/a973579d10e273ee825cbee01ac4428932976ad1/aws-java-sdk-medicalimaging-1.12.720.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-medicalimaging/1.12.720/d9b485a48183490c252462a7f72682952689709f/aws-java-sdk-medicalimaging-1.12.720-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

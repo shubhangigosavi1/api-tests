@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.amazonaws:aws-java-sdk-qconnect:1.12.720">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-qconnect/1.12.720/cf0c826aa6d1a437b4a41f0926560eb4188e78f2/aws-java-sdk-qconnect-1.12.720.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-qconnect/1.12.720/98b4bfd07fcd61a1cb806e9e2c942a1b1d1016f8/aws-java-sdk-qconnect-1.12.720-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

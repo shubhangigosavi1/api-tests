@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.amazonaws:aws-java-sdk-devopsguru:1.12.720">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-devopsguru/1.12.720/29a94a1c992b1ab96cffe7670f3edee362cfbe93/aws-java-sdk-devopsguru-1.12.720.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-devopsguru/1.12.720/b77efa32f6fb982dac8f4d5813ab254ab8a7afc6/aws-java-sdk-devopsguru-1.12.720-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

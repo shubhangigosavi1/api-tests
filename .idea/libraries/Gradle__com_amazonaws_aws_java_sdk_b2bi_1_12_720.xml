@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.amazonaws:aws-java-sdk-b2bi:1.12.720">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-b2bi/1.12.720/4bd8c68cf8172e40f3e95799de241b3e3616dd5c/aws-java-sdk-b2bi-1.12.720.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-b2bi/1.12.720/1ccbcb654abbafea2fd282bc005b48a73b7e68ca/aws-java-sdk-b2bi-1.12.720-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

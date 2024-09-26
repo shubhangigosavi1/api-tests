@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.amazonaws:aws-java-sdk-timestreamwrite:1.12.720">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-timestreamwrite/1.12.720/8292ac7578235b10dd1c5bba40b19c3147194538/aws-java-sdk-timestreamwrite-1.12.720.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-timestreamwrite/1.12.720/ca173ad5949b95c3d71cff7490022839b3c8cbb1/aws-java-sdk-timestreamwrite-1.12.720-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

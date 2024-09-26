@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.amazonaws:aws-java-sdk-applicationinsights:1.12.720">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-applicationinsights/1.12.720/e3323554e10a0904c3c7d2011d73c338c335eeeb/aws-java-sdk-applicationinsights-1.12.720.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-applicationinsights/1.12.720/21c06c0b96930244e182d3d13b1f00d43641930b/aws-java-sdk-applicationinsights-1.12.720-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

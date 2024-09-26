@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.amazonaws:aws-java-sdk-connectcampaign:1.12.720">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-connectcampaign/1.12.720/e5559e73078d7440509ff500f49ecda06984a5f4/aws-java-sdk-connectcampaign-1.12.720.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-connectcampaign/1.12.720/ae0dce2e65e83719955b60c2c7b1a4ff91dc4c8b/aws-java-sdk-connectcampaign-1.12.720-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

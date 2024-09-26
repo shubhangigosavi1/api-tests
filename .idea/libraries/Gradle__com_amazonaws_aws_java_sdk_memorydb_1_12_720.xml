@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.amazonaws:aws-java-sdk-memorydb:1.12.720">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-memorydb/1.12.720/450f78b6be709b449d80871b6f98c543e3632ff1/aws-java-sdk-memorydb-1.12.720.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-memorydb/1.12.720/3b3026f0b1926116e9a524d507e9507b5898ca71/aws-java-sdk-memorydb-1.12.720-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.amazonaws:aws-java-sdk-gluedatabrew:1.12.720">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-gluedatabrew/1.12.720/b0393a5e43953a2713cb3dafe9e72942a77dbb00/aws-java-sdk-gluedatabrew-1.12.720.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-gluedatabrew/1.12.720/47d21f63e51a1d216177393ebcd84b32f4af72c8/aws-java-sdk-gluedatabrew-1.12.720-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

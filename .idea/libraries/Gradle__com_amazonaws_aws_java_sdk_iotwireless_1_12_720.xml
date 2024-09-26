@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.amazonaws:aws-java-sdk-iotwireless:1.12.720">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-iotwireless/1.12.720/8feacca3d273add5c2af5225652176907acab9e4/aws-java-sdk-iotwireless-1.12.720.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-iotwireless/1.12.720/30712caec6fc6fc0cf664f63355d1b56c92b03bb/aws-java-sdk-iotwireless-1.12.720-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

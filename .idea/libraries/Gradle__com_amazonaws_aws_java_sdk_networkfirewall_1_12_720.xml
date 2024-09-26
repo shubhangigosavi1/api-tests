@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.amazonaws:aws-java-sdk-networkfirewall:1.12.720">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-networkfirewall/1.12.720/e15919a4ea7d21d9c94c982928c04a9851b81212/aws-java-sdk-networkfirewall-1.12.720.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-networkfirewall/1.12.720/cc48fb71e0249886e1779c2938f9e8761a4d7cd9/aws-java-sdk-networkfirewall-1.12.720-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

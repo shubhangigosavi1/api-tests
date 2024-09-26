@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.amazonaws:aws-java-sdk-simspaceweaver:1.12.720">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-simspaceweaver/1.12.720/8dd5f419d959eb68c9d4b868393331770ae5ca33/aws-java-sdk-simspaceweaver-1.12.720.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-simspaceweaver/1.12.720/3a6910f052e53344d7886f31a379762618ef626c/aws-java-sdk-simspaceweaver-1.12.720-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

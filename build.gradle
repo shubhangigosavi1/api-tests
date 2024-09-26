@@ -1,0 +1,52 @@
+plugins {
+    id 'java'
+}
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    testImplementation 'io.cucumber:cucumber-java:7.3.4'
+    testImplementation 'io.cucumber:cucumber-testng:7.3.4'
+    testImplementation 'io.cucumber:cucumber-core:7.3.4'
+    implementation group: 'org.json', name: 'json', version: '20230618'
+    testImplementation group: 'io.rest-assured', name: 'rest-assured', version: '5.4.0'
+    testImplementation 'junit:junit:4.12.1'
+    testImplementation group: 'io.cucumber', name: 'cucumber-junit', version: '7.14.0'
+    implementation group: 'io.cucumber', name: 'cucumber-html', version: '0.2.7'
+    implementation group: 'com.vimalselvam', name: 'cucumber-extentsreport', version: '1.1.0'
+    implementation platform('com.amazonaws:aws-java-sdk-bom:1.12.529')
+    implementation 'com.amazonaws:aws-java-sdk-s3'
+    implementation group: 'com.amazonaws', name: 'aws-java-sdk', version: '1.12.720'
+
+}
+
+configurations {
+    cucumberRuntime {
+        extendsFrom testImplementation
+    }
+}
+
+
+group 'org.example'
+version '1.0-SNAPSHOT'
+description = 'restassured-java-api-tests'
+
+
+task runTests() {
+    dependsOn assemble, test
+    doLast{
+        javaexec{
+            // Configure JavaExec task
+            main = "io.cucumber.core.cli.Main"
+            classpath = configurations.cucumberRuntime + sourceSets.main.output + sourceSets.test.output
+            args = ['--plugin','pretty','--plugin','html:./reports/report.html','--glue', 'stepdefs', 'src/test/java/features']
+
+        }
+    }
+    }
+
+
+
+

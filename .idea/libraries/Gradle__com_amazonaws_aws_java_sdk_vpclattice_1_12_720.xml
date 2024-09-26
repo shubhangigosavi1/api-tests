@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.amazonaws:aws-java-sdk-vpclattice:1.12.720">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-vpclattice/1.12.720/67757526b2b549f7dacd9845f885f622466baac9/aws-java-sdk-vpclattice-1.12.720.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-vpclattice/1.12.720/1d70a28a9bde21d1caf97fb35f49a7c839850109/aws-java-sdk-vpclattice-1.12.720-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

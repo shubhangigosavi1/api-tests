@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.amazonaws:aws-java-sdk-iotsecuretunneling:1.12.720">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-iotsecuretunneling/1.12.720/3ae90d4f3399dd2d8983de8e7ecfda94ba009a76/aws-java-sdk-iotsecuretunneling-1.12.720.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-iotsecuretunneling/1.12.720/aebf3d7fc28efc0494f2db48e146b3effaadf791/aws-java-sdk-iotsecuretunneling-1.12.720-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

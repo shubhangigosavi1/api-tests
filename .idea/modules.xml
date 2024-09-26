@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Booker.iml" filepath="$PROJECT_DIR$/.idea/modules/Booker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Booker.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Booker.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/src/Booker.src.iml" filepath="$PROJECT_DIR$/.idea/modules/src/Booker.src.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Booker.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Booker.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/booker-api-tests.iml" filepath="$PROJECT_DIR$/.idea/booker-api-tests.iml" />
+    </modules>
+  </component>
+</project>

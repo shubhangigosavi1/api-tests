@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.amazonaws:aws-java-sdk-amplifyuibuilder:1.12.720">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-amplifyuibuilder/1.12.720/c97c04192d18263c5af5cde5a3492f2ab6ad1db2/aws-java-sdk-amplifyuibuilder-1.12.720.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-amplifyuibuilder/1.12.720/8c3244c7e7ce00edc40be5aac9d85734aef05815/aws-java-sdk-amplifyuibuilder-1.12.720-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

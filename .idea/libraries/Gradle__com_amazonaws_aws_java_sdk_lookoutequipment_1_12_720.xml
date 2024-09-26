@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.amazonaws:aws-java-sdk-lookoutequipment:1.12.720">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-lookoutequipment/1.12.720/29bc8e287edf98f8fd997658ab9539aadece08da/aws-java-sdk-lookoutequipment-1.12.720.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-lookoutequipment/1.12.720/54b2c5a9b062a6d9aad1994e0931bd5ecd053bd0/aws-java-sdk-lookoutequipment-1.12.720-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

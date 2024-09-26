@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.amazonaws:aws-java-sdk-cloudwatchevidently:1.12.720">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-cloudwatchevidently/1.12.720/ab9f9df2563c20f32ef0e5b7c5df624d0f532891/aws-java-sdk-cloudwatchevidently-1.12.720.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-cloudwatchevidently/1.12.720/30a15736e0e90e67de1a7ddc1a383ea9acfdbe47/aws-java-sdk-cloudwatchevidently-1.12.720-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

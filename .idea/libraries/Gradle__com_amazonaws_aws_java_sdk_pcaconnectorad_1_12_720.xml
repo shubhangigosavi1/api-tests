@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.amazonaws:aws-java-sdk-pcaconnectorad:1.12.720">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-pcaconnectorad/1.12.720/b9658a6a11f3c9ba8797fb5e1863baa3e22d3a89/aws-java-sdk-pcaconnectorad-1.12.720.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-pcaconnectorad/1.12.720/52ee4e6db5570dbeb95ed1764cedfbe721a6dd11/aws-java-sdk-pcaconnectorad-1.12.720-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

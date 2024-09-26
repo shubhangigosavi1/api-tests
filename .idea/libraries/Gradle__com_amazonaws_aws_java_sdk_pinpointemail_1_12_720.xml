@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.amazonaws:aws-java-sdk-pinpointemail:1.12.720">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-pinpointemail/1.12.720/d7267a8e0f90587ed26a9b7f50af62131236b2e2/aws-java-sdk-pinpointemail-1.12.720.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-pinpointemail/1.12.720/51e3b23780757720657ed198fc5cff7181e36e0e/aws-java-sdk-pinpointemail-1.12.720-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

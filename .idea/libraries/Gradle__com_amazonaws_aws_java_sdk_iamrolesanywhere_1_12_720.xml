@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.amazonaws:aws-java-sdk-iamrolesanywhere:1.12.720">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-iamrolesanywhere/1.12.720/6f5ee80aada4f5a9a7a91879625401e2e887ab25/aws-java-sdk-iamrolesanywhere-1.12.720.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-iamrolesanywhere/1.12.720/8b2e025a7a7aef21b2931d22ad4828f208fb848b/aws-java-sdk-iamrolesanywhere-1.12.720-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

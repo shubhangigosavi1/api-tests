@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.amazonaws:aws-java-sdk-detective:1.12.720">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-detective/1.12.720/56d4917c81126f19e1dd8d094471abd079536d93/aws-java-sdk-detective-1.12.720.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-detective/1.12.720/637c1a282063f2a6f742544bd1d46788b87222ce/aws-java-sdk-detective-1.12.720-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

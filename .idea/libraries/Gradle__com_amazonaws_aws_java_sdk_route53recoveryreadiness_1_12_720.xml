@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.amazonaws:aws-java-sdk-route53recoveryreadiness:1.12.720">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-route53recoveryreadiness/1.12.720/31376c6938000098e9704dfefe6e2b96183f4470/aws-java-sdk-route53recoveryreadiness-1.12.720.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-route53recoveryreadiness/1.12.720/9e20bb7349efea4b8bb0879a8e43964547ef326e/aws-java-sdk-route53recoveryreadiness-1.12.720-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

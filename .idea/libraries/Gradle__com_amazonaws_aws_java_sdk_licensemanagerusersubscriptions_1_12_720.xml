@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.amazonaws:aws-java-sdk-licensemanagerusersubscriptions:1.12.720">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-licensemanagerusersubscriptions/1.12.720/74f17be1b277b5aa8ed2e3f81b5adb88b512563b/aws-java-sdk-licensemanagerusersubscriptions-1.12.720.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-licensemanagerusersubscriptions/1.12.720/be84e21127b012f742eee480ddddd33c130a29c0/aws-java-sdk-licensemanagerusersubscriptions-1.12.720-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

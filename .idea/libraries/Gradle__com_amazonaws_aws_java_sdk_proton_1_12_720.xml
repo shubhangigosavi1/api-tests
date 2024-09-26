@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.amazonaws:aws-java-sdk-proton:1.12.720">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-proton/1.12.720/83accbbb95a734a119487a692a9f475c93b73321/aws-java-sdk-proton-1.12.720.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-proton/1.12.720/3ab3ce60f6d0a9bb80b6b58016e186aa0cfbc6fa/aws-java-sdk-proton-1.12.720-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

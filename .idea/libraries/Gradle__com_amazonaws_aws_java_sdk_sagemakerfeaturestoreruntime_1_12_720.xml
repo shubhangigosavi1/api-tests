@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.amazonaws:aws-java-sdk-sagemakerfeaturestoreruntime:1.12.720">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-sagemakerfeaturestoreruntime/1.12.720/5038dc7f9cedc8fae2e87673a0b99babe1fd0fb1/aws-java-sdk-sagemakerfeaturestoreruntime-1.12.720.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-sagemakerfeaturestoreruntime/1.12.720/7d9c7b2d296d8d751ee3d961da29b3b2f4a87ad/aws-java-sdk-sagemakerfeaturestoreruntime-1.12.720-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

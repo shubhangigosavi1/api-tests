@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.amazonaws:aws-java-sdk-iotfleethub:1.12.720">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-iotfleethub/1.12.720/85591fd90fbffcbce3a97d5d2db5ba29f936a07a/aws-java-sdk-iotfleethub-1.12.720.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-iotfleethub/1.12.720/9867f818675f65bb8271e5b59b273290c93dd420/aws-java-sdk-iotfleethub-1.12.720-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

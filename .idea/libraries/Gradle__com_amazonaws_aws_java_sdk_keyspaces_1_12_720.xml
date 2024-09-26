@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.amazonaws:aws-java-sdk-keyspaces:1.12.720">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-keyspaces/1.12.720/d02274806a8211046f51ecd61c207479a438bbf9/aws-java-sdk-keyspaces-1.12.720.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-keyspaces/1.12.720/d43e8add83332751a7f265421fb0895243849c5e/aws-java-sdk-keyspaces-1.12.720-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

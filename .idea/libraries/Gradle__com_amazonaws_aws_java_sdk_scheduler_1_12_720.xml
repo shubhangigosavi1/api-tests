@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.amazonaws:aws-java-sdk-scheduler:1.12.720">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-scheduler/1.12.720/4c833e32a86ff739ce29aec601e3251af2b7ac06/aws-java-sdk-scheduler-1.12.720.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-scheduler/1.12.720/13c73cc60f20e863a66f0c0dc5e0936f0bd525c2/aws-java-sdk-scheduler-1.12.720-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
