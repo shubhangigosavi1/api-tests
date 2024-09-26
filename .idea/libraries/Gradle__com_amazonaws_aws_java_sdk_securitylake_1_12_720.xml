@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.amazonaws:aws-java-sdk-securitylake:1.12.720">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-securitylake/1.12.720/d41b41e31e5efaceb18ab4fd486f1b78a5ee0a83/aws-java-sdk-securitylake-1.12.720.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-securitylake/1.12.720/a86c027733862324b9b60e753376e2a83c91362f/aws-java-sdk-securitylake-1.12.720-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.amazonaws:aws-java-sdk-iottwinmaker:1.12.720">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-iottwinmaker/1.12.720/419bf725d0fdb47932f0c4a82bb3e746ae0343cc/aws-java-sdk-iottwinmaker-1.12.720.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-iottwinmaker/1.12.720/8c480315a3f348b90ce4181e455eeeead7870103/aws-java-sdk-iottwinmaker-1.12.720-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

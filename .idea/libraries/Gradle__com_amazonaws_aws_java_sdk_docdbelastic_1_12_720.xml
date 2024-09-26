@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.amazonaws:aws-java-sdk-docdbelastic:1.12.720">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-docdbelastic/1.12.720/501a33fd3e51c7f45e7f73dde16fa852bce80e78/aws-java-sdk-docdbelastic-1.12.720.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-docdbelastic/1.12.720/df5a2022eaf4474faed37053fdd236bd0c3d7f9d/aws-java-sdk-docdbelastic-1.12.720-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

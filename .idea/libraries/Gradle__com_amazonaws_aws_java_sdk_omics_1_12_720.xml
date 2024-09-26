@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.amazonaws:aws-java-sdk-omics:1.12.720">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-omics/1.12.720/de9126a9548956f8403270be6e671f67f3ce1fb3/aws-java-sdk-omics-1.12.720.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-omics/1.12.720/9e8279f1c7dc17dd85fb1d9ee448f0f92ce15481/aws-java-sdk-omics-1.12.720-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

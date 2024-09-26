@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.amazonaws:aws-java-sdk-ssmincidents:1.12.720">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-ssmincidents/1.12.720/b0d6d07b82c60942c892adb640cd079fc9f0079/aws-java-sdk-ssmincidents-1.12.720.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-ssmincidents/1.12.720/a16115bcd6d54f7a70abe3d1826c40cceb8c054/aws-java-sdk-ssmincidents-1.12.720-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

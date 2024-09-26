@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.amazonaws:aws-java-sdk-eventbridge:1.12.720">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-eventbridge/1.12.720/b3dfda7866e0773bba89e58a2b72c879ef023464/aws-java-sdk-eventbridge-1.12.720.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-eventbridge/1.12.720/9be2a7c0775dfcf2441df8f4d4209a44cc49f77b/aws-java-sdk-eventbridge-1.12.720-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

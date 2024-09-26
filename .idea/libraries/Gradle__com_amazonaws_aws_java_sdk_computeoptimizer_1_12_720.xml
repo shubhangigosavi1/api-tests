@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.amazonaws:aws-java-sdk-computeoptimizer:1.12.720">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-computeoptimizer/1.12.720/d767b3e8729ed59f53edaba18eb54b8bdfad7736/aws-java-sdk-computeoptimizer-1.12.720.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-computeoptimizer/1.12.720/ff668e79a750ec26c8cdc100300d2a632b67e1fc/aws-java-sdk-computeoptimizer-1.12.720-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

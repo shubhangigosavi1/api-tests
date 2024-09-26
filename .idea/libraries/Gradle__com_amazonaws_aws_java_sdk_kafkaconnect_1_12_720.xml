@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.amazonaws:aws-java-sdk-kafkaconnect:1.12.720">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-kafkaconnect/1.12.720/fbd043b70ccf6776dffa0b7ec0dc239c8083206f/aws-java-sdk-kafkaconnect-1.12.720.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-kafkaconnect/1.12.720/e72d1e324a2a22fbed690a24c4c64a96490a8a28/aws-java-sdk-kafkaconnect-1.12.720-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

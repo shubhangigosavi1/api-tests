@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.amazonaws:aws-java-sdk-private5g:1.12.720">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-private5g/1.12.720/d97d524d19f650cbdf1ae02f533197cfcb65d093/aws-java-sdk-private5g-1.12.720.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-private5g/1.12.720/5d6b33c0458576e1fa24c9694c8178c3fb70c108/aws-java-sdk-private5g-1.12.720-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.amazonaws:aws-java-sdk-iotsitewise:1.12.720">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-iotsitewise/1.12.720/fe2cee106930fbcd54cf8f559f9c842ed64b75fe/aws-java-sdk-iotsitewise-1.12.720.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-iotsitewise/1.12.720/b7ffab2660b3726980d1fc9bc881567dc5e7e89c/aws-java-sdk-iotsitewise-1.12.720-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

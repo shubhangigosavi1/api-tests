@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.amazonaws:aws-java-sdk-arczonalshift:1.12.720">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-arczonalshift/1.12.720/24d64eb1f93c1c950a7bc2959876ff40b22160c2/aws-java-sdk-arczonalshift-1.12.720.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-arczonalshift/1.12.720/d543bf9c79ec63602d49749e05db3ba921f512bd/aws-java-sdk-arczonalshift-1.12.720-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

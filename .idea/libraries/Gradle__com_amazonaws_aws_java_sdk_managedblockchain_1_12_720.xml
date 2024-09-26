@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.amazonaws:aws-java-sdk-managedblockchain:1.12.720">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-managedblockchain/1.12.720/bc7ff24e054ba02772a004dc5f9da95bb410af3b/aws-java-sdk-managedblockchain-1.12.720.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-managedblockchain/1.12.720/775ae4133d96a5b6c064284a9676c84f9206027a/aws-java-sdk-managedblockchain-1.12.720-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

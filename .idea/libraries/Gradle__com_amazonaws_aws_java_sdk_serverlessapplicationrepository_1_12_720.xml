@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.amazonaws:aws-java-sdk-serverlessapplicationrepository:1.12.720">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-serverlessapplicationrepository/1.12.720/42f40320eb3e21887aacc9fc6d402ac0cd0e4b8e/aws-java-sdk-serverlessapplicationrepository-1.12.720.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-serverlessapplicationrepository/1.12.720/fc219d0951eb1ea71f0ebc3ebc4f2929296743d6/aws-java-sdk-serverlessapplicationrepository-1.12.720-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

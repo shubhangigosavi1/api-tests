@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.amazonaws:aws-java-sdk-managedgrafana:1.12.720">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-managedgrafana/1.12.720/77ef6e366c2d58c328dd0b1aa6e501cdd3263c8/aws-java-sdk-managedgrafana-1.12.720.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-managedgrafana/1.12.720/f7d7551e92fa26e62bc608e4941bfabb6cbb915d/aws-java-sdk-managedgrafana-1.12.720-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

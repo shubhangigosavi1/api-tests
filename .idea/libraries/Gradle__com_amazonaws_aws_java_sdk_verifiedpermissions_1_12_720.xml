@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.amazonaws:aws-java-sdk-verifiedpermissions:1.12.720">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-verifiedpermissions/1.12.720/b3af82e59a65f56e3522d419f827ccf2695470e5/aws-java-sdk-verifiedpermissions-1.12.720.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-verifiedpermissions/1.12.720/32f1c7a1948429a7a1da9208f6696ccc2126ea94/aws-java-sdk-verifiedpermissions-1.12.720-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

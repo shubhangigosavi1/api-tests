@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.amazonaws:aws-java-sdk-robomaker:1.12.720">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-robomaker/1.12.720/47b3cb8d133aef4719f4c49b0fa24281b7e51d3d/aws-java-sdk-robomaker-1.12.720.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-robomaker/1.12.720/45ea040646f750edb4a718a3bd24ddf04b7a0d91/aws-java-sdk-robomaker-1.12.720-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

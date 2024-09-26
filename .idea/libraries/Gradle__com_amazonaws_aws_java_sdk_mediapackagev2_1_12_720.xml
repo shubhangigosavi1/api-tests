@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.amazonaws:aws-java-sdk-mediapackagev2:1.12.720">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-mediapackagev2/1.12.720/f2918138d6a7f529906c683fe91d96f467e537a8/aws-java-sdk-mediapackagev2-1.12.720.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-mediapackagev2/1.12.720/81230196089dad5fbb567ab4d7efbb4a3e0c7fb7/aws-java-sdk-mediapackagev2-1.12.720-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

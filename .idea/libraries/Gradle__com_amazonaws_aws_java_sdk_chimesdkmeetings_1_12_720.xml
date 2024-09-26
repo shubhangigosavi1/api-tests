@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.amazonaws:aws-java-sdk-chimesdkmeetings:1.12.720">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-chimesdkmeetings/1.12.720/2903569d5cc6e87ca42531c2287f5b8589a95529/aws-java-sdk-chimesdkmeetings-1.12.720.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-chimesdkmeetings/1.12.720/5fdcaf0581198074f76b63d099d5f205318ae9ff/aws-java-sdk-chimesdkmeetings-1.12.720-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

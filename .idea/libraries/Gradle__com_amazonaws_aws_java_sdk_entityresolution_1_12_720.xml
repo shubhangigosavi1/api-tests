@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.amazonaws:aws-java-sdk-entityresolution:1.12.720">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-entityresolution/1.12.720/a010f6425e0fb964b88e5e81e3853eba11229f44/aws-java-sdk-entityresolution-1.12.720.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-entityresolution/1.12.720/e16c5030f4a74401ca631da272e3a74a8ef64e9f/aws-java-sdk-entityresolution-1.12.720-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

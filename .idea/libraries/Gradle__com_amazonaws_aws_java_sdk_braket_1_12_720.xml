@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.amazonaws:aws-java-sdk-braket:1.12.720">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-braket/1.12.720/eafc1d7f6f51ad18e89c81b7008256e325e2a4c9/aws-java-sdk-braket-1.12.720.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-braket/1.12.720/cbf6ca66c73dcf220c55b4b2372c6a40f3a6d74f/aws-java-sdk-braket-1.12.720-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

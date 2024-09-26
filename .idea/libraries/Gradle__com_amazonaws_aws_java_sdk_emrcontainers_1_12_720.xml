@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.amazonaws:aws-java-sdk-emrcontainers:1.12.720">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-emrcontainers/1.12.720/8a43c7c6b34bc9afa7c826443b36405be255dcba/aws-java-sdk-emrcontainers-1.12.720.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-emrcontainers/1.12.720/ff279ff5fda0e78ce1e08b9fd7362d0d86496824/aws-java-sdk-emrcontainers-1.12.720-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

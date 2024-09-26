@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.amazonaws:aws-java-sdk-networkmanager:1.12.720">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-networkmanager/1.12.720/70b33a00aad7537d30edf5d6bfacaa28b29c818c/aws-java-sdk-networkmanager-1.12.720.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-networkmanager/1.12.720/1735da2056972d739be584e153a092986e3d0c7a/aws-java-sdk-networkmanager-1.12.720-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.amazonaws:aws-java-sdk-controltower:1.12.720">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-controltower/1.12.720/a29f0d1dce4a31b5cdcac016eda82c383d7d72e4/aws-java-sdk-controltower-1.12.720.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-controltower/1.12.720/a29861eeb219a302eaa3296d9b9489c0a17ca57f/aws-java-sdk-controltower-1.12.720-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

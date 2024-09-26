@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.amazonaws:aws-java-sdk-ecrpublic:1.12.720">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-ecrpublic/1.12.720/85e02763d56135d866967aa6f50474c5b32e0f70/aws-java-sdk-ecrpublic-1.12.720.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-ecrpublic/1.12.720/9e56aa9d716a789fcb537b12ddabd6aad00baa4d/aws-java-sdk-ecrpublic-1.12.720-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

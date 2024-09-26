@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.amazonaws:aws-java-sdk-ssmsap:1.12.720">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-ssmsap/1.12.720/7c2ad6ab658610edbbdf0e75222df36243d0192f/aws-java-sdk-ssmsap-1.12.720.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-ssmsap/1.12.720/371baf2c041a9794b9724676455e00028d931994/aws-java-sdk-ssmsap-1.12.720-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

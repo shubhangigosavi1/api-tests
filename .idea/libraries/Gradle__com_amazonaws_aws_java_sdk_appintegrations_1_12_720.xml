@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.amazonaws:aws-java-sdk-appintegrations:1.12.720">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-appintegrations/1.12.720/9f3851e2c064b886d061f8583d0bfe7e24ace4f1/aws-java-sdk-appintegrations-1.12.720.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-appintegrations/1.12.720/4a85be7457078b3473e01128c56fd476c8a1a8ef/aws-java-sdk-appintegrations-1.12.720-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

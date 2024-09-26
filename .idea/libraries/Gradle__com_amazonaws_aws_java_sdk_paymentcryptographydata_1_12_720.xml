@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.amazonaws:aws-java-sdk-paymentcryptographydata:1.12.720">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-paymentcryptographydata/1.12.720/79b7c3820287810965747474f5126b78a20e7bf0/aws-java-sdk-paymentcryptographydata-1.12.720.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-paymentcryptographydata/1.12.720/5b5632f9464037ac1cd9082d524edf0fb8aa4fa7/aws-java-sdk-paymentcryptographydata-1.12.720-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

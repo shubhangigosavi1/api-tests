@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.amazonaws:aws-java-sdk-resiliencehub:1.12.720">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-resiliencehub/1.12.720/10e7df00395a19a887521af83a6b8880aa30e9e/aws-java-sdk-resiliencehub-1.12.720.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-resiliencehub/1.12.720/9ce5e2ea6c07aa57b3be9b68673cb467a1d1b5c/aws-java-sdk-resiliencehub-1.12.720-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

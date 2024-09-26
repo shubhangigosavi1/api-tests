@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.amazonaws:aws-java-sdk-prometheus:1.12.720">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-prometheus/1.12.720/cfc3e492a2012880d5e18bbcbe83b0c913ad5e21/aws-java-sdk-prometheus-1.12.720.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-prometheus/1.12.720/8f03aca73cd50d0cadb315aef0eb141a4480ac3e/aws-java-sdk-prometheus-1.12.720-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

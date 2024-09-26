@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.amazonaws:aws-java-sdk-connectcontactlens:1.12.720">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-connectcontactlens/1.12.720/8f4a9df69bc54cc3ae707accb7f3212e291dad72/aws-java-sdk-connectcontactlens-1.12.720.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-connectcontactlens/1.12.720/d39561454a058d16b61a1f664aae58f83a9c8d66/aws-java-sdk-connectcontactlens-1.12.720-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

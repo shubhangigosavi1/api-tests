@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.amazonaws:aws-java-sdk-appfabric:1.12.720">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-appfabric/1.12.720/36304a46fed0c0c7f37bf70f3eedc15da22281e8/aws-java-sdk-appfabric-1.12.720.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-appfabric/1.12.720/d153077d605a9da3fbfa0263a788626108e2948c/aws-java-sdk-appfabric-1.12.720-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

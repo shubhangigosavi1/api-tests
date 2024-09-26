@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.amazonaws:aws-java-sdk-mainframemodernization:1.12.720">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-mainframemodernization/1.12.720/bd57643974a9ffba3c1f0206d2cec0a33356644/aws-java-sdk-mainframemodernization-1.12.720.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-mainframemodernization/1.12.720/b6253d82aa30a254b20dfab5101a7263dee65b2a/aws-java-sdk-mainframemodernization-1.12.720-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

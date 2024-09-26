@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.amazonaws:aws-java-sdk-sagemakergeospatial:1.12.720">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-sagemakergeospatial/1.12.720/a46dafe9b222f9f23f3388d558561ca5e66e753d/aws-java-sdk-sagemakergeospatial-1.12.720.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-sagemakergeospatial/1.12.720/1484f03d18dec384a1116471de48256061de2cd9/aws-java-sdk-sagemakergeospatial-1.12.720-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.amazonaws:aws-java-sdk-datazoneexternal:1.12.720">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-datazoneexternal/1.12.720/476cedae609a71c90f53f3fe0b13804842001c/aws-java-sdk-datazoneexternal-1.12.720.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-datazoneexternal/1.12.720/c63933687734d4a4a4c81c2d3e7be4b83e4f70bd/aws-java-sdk-datazoneexternal-1.12.720-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.amazonaws:aws-java-sdk-bedrockagent:1.12.720">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-bedrockagent/1.12.720/ba73a8f53a38475bc7190f77b66753a04d006dde/aws-java-sdk-bedrockagent-1.12.720.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-bedrockagent/1.12.720/f6b572d1dc01656bf03124d3fe1abbb7a79c7011/aws-java-sdk-bedrockagent-1.12.720-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

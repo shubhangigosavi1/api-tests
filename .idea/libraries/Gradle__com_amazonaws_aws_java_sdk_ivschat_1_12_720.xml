@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.amazonaws:aws-java-sdk-ivschat:1.12.720">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-ivschat/1.12.720/bfde418903cab87dcfc7fe24b099b8bd4e1708a8/aws-java-sdk-ivschat-1.12.720.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-ivschat/1.12.720/fcf4dc24240010eacda2d3aeda404f0af9459eb6/aws-java-sdk-ivschat-1.12.720-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
