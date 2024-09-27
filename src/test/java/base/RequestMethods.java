@@ -19,7 +19,7 @@ public class RequestMethods {
         APIResources resourceAPI= APIResources.valueOf(apiName);
         reqspec = new CoreRequestBuilder().reqSpecBuilder();
 
-
+        //generating request
         switch (apiName)
         {
             case "GetBookingIds":System.out.println("Sending GET request to: "+resourceAPI.getResource()+" service");

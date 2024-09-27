@@ -16,10 +16,11 @@ public class CoreRequestBuilder {
     PrintStream log;
 
     public RequestSpecification reqSpecBuilder() throws FileNotFoundException {
+        //Creating request skeleton with base url
         builder = new RequestSpecBuilder();
         builder.setBaseUri(prop.getPropValue("APIBaseURI"));
         builder.setContentType("application/json");
-        log = new PrintStream(new FileOutputStream("log.txt"));
+        log = new PrintStream(new FileOutputStream("log.txt", true));
         builder.addFilter(RequestLoggingFilter.logRequestTo(log));
         builder.addFilter(ResponseLoggingFilter.logResponseTo(log));
         reqspec =  builder.build();

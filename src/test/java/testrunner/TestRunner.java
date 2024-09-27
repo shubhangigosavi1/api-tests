@@ -11,7 +11,7 @@ import org.junit.runner.RunWith;
 		dryRun = false,
 		monochrome = true,
 		plugin = {
-				"html:target/jsonReports/cucumber-report.html"
+				"pretty", "html:reports/report.html"
 		},
 		publish = true
 )
