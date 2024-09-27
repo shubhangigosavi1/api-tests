@@ -58,7 +58,7 @@ Feature: Booking
 
 
   #Failed scenario for report generation
-  #Scenario: Get booking with valid ID
-   # When "GetBooking" API is called with "GET" request
-    #Then Status code is 400
-    #And response body is not null
+  Scenario: Get booking with valid ID
+   When "GetBooking" API is called with "GET" request
+    Then Status code is 400
+    And response body is not null
